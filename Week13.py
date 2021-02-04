@@ -10,3 +10,5 @@ data = [2,3,1,-1]
 x = f(data)
 
 print(x)
+
+print("hello")
